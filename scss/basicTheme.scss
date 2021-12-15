@@ -1,0 +1,27 @@
+*{
+    color: white !important;
+}
+
+body{
+    background-color: rgb(60, 60, 60);
+}
+
+.navbarColor{
+    background-color: rgb(38, 38, 38);
+}
+
+.containerOptionsMain > div{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.colorSidebar{
+    background-color: rgb(38, 38, 38);
+}
+
+#bossesCard{background-image: url("../img/bossesCard.jpg");}
+#armorCard{background-image: url("../img/armorCard.jpg");}
+#weaponsCard{background-image: url("../img/weaponsCard.jpg");}
+#covenantsCard{background-image: url("../img/covenantsCard.jpg");}
+#npcsCard{background-image: url("../img/npcsCard.jpg");}

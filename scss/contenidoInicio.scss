@@ -1,0 +1,20 @@
+.containerOptionsMain{
+    margin: 0px;
+    padding: 30px 20px 30px 20px;
+}
+
+.containerOptionsMain > div{
+    height: 100px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 28px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.containerOptionsMain > div > p{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20px;
+}
